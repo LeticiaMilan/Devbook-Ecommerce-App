@@ -6,7 +6,7 @@ Criado ❤️ por [Letícia Milan](https://github.com/LeticiaMilan).
 
 ## Live demo
 
-Veja a live demo aqui 👉️ [https://#](https://#)
+Veja a live demo aqui 👉️ [Live Demo](https://devbook-ecommerce.vercel.app/)
 
 ## Usage
 
@@ -32,5 +32,5 @@ See [Configuration Reference](https://vitejs.dev/guide/).
 
 
 <h4 align="center"> 
-	🚧  Em construção...  🚧
+	🚧  Under construction...  🚧
 </h4>
