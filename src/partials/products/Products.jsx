@@ -1,0 +1,19 @@
+import React from 'react';
+import { Link } from 'react-router-dom';
+import Filter from "../../filter/Filter";
+import classes from "./Products.module.css";
+import ProductsList from "./ProductsList";
+
+const Products = () => {
+    return (
+        <div className="container">
+            <main className={classes.main}>
+                <p className={classes.navCatalogo}>Home / Catálogo</p>
+                <Filter />
+                <ProductsList />
+            </main>
+        </div>
+    );
+};
+
+export default Products;
