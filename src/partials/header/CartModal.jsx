@@ -97,7 +97,7 @@ function CartModal({
                         <li className="flex flex-col space-y-3 py-6 text-left sm:flex-row sm:space-x-5 sm:space-y-0">
                           <div className="shrink-0 relative">
                             <span className="absolute top-1 left-1 flex h-6 w-6 items-center justify-center rounded-full border bg-white text-sm font-medium text-gray-500 shadow sm:-top-2 sm:-right-2">1</span>
-                            <img className="h-24 w-24 max-w-full rounded-lg object-cover" src=".https://i.imgur.com/Kx9VQB1.jpeg" alt="" />
+                            <img className="h-24 w-24 max-w-full rounded-lg object-cover" src="https://i.imgur.com/Kx9VQB1.jpeg" alt="" />
                           </div>
 
                           <div className="relative flex flex-1 flex-col justify-between">
