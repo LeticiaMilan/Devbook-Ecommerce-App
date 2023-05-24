@@ -6,7 +6,7 @@ Criado ❤️ por [Letícia Milan](https://github.com/LeticiaMilan).
 
 ## Live demo
 
-Veja a live demo aqui 👉️ [Live Demo](https://devbook-ecommerce.vercel.app/)
+Veja a live demo aqui 👉️ [Live Demo]([https://devbook-ecommerce.vercel.app/](https://devbook-app-ecommerce.vercel.app/))
 
 ## Usage
 
